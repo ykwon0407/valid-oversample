@@ -1,6 +1,6 @@
 # Valid Oversampling Schemes to Handle Imbalance
 
-This repository provides a Pytorch implementation of the paper "Valid Oversampling Schemes to Handle Imbalance", under review at **Pattern Recognition Letters**. We compare accuracy, sensitivity, and specificity of various oversampling methods using the MNIST dataset.
+This repository provides a Pytorch implementation of the paper "Valid Oversampling Schemes to Handle Imbalance", accepted at *Pattern Recognition Letters*. We compare accuracy, sensitivity, and specificity of various oversampling methods using the MNIST dataset.
 
 
 ## Results
