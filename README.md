@@ -4,16 +4,18 @@ This repository provides a Pytorch implementation of the paper "Valid Oversampli
 
 ## Quick start
 
+```
 python3 main.py --experiment 4 # Valid-oversampling method
+```
 
 The followings are arguments for other experitments.
-'''
+```
 Experiment 0: No oversampling
 Experiment 1: Oversample minor class to be balanced
 Experiment 2: Use a cost-sensitive loss function
 Experiment 3: SMOTE
 Experiment 4: Valid oversampling
-'''
+```
 
 ## Results
 
