@@ -4,6 +4,7 @@ This repository provides a Pytorch implementation of the paper "Valid Oversampli
 
 ## Quick start
 
+To execute the valid oversampling method, please go to the directory `lib` first and run the `main.py` file as follows.
 ```
 python3 main.py --experiment 4 # Valid-oversampling method
 ```
