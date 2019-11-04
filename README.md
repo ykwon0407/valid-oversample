@@ -30,7 +30,7 @@ Experiment 4: Valid oversampling
 
 ## Reference
 
-[1] Chawla,  N.V.,  Bowyer.,  K.W.,  Hall,  L.O.,  Kegelmeyer,  W.P.,  2002.   Smote:Synthetic  minority  over-sampling  technique.   Journal  of  Artificial  Intelli-gence Research 16, 321–357.
+[1] Chawla,  N.V.,  Bowyer.,  K.W.,  Hall,  L.O.,  Kegelmeyer,  W.P.,  2002.   Smote:Synthetic  minority  over-sampling  technique.   Journal  of  Artificial  Intelligence Research 16, 321–357.
 
 
 
